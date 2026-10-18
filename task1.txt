@@ -1,0 +1,69 @@
+1) Dance Class
+
+class dance:
+    name="belly dance"
+    duration="1hr"
+    level="beginner"
+
+    practice()
+    perform()
+ 
+
+2) Space Rocket Class
+
+class spacerocket:
+   name="star rocket"
+   fuel="liquid fuel"
+   destination="mars"
+
+   launch():
+   landing()
+
+
+
+3) Car Class
+
+class car:
+   name="BMW"
+   color="white"
+   price=4500000
+
+   start()
+   stop()
+
+
+4) Dog Class
+
+class Dog:
+   name="tommy"
+   age=3
+   color="brown"
+
+   barking()
+   eating()
+   running()
+ 
+
+5) Garden Class
+
+class garden:
+    name="rose garden"
+    flowers=50
+    location="pune"
+
+    grow()
+    water()
+
+    
+   
+6) Pizza Class
+
+class pizza:
+    name="corn pizza"
+    price=250
+    size="medium"
+ 
+    baking()
+    serve()
+
+
